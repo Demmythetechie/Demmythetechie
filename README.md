@@ -1,5 +1,5 @@
 # 👋🏽 Hi there:
-I'm currently working on a portfolio using React.js<br>I'm looking to collaborate on a project that requires front-end expertise<br>I'm looking for help with an Internship/Job<br>I'm currently learning React.js, API's & Databases.<br>Ask me about Front-end Development<br>I am lazy but intelligent
+I'm currently working on a portfolio using React.js<br>I'm looking to collaborate on a project that requires front-end expertise<br>I'm looking for help with an Internship/Job<br>Working familiarity with React.js, API's & Databases.<br>Ask me about Front-end Development<br>
 
 
 ## 🌐 Socials:
